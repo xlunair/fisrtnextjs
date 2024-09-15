@@ -14,11 +14,11 @@ const page = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">Graphic Designer</span>
             <h1 className="h1 mb-6">
-              Hello I'm <br />
+              Hello I am <br />
               <span className="text-accent">Dwiki</span>
             </h1>
             <h3 className="h3">
-              Selamat Datang di Dunia Visual yang{" "}
+              Selamat Datang di Dunia Visual yang
               <span className="text-accent">Elegan</span>
             </h3>
             <p className="max-w-[500px] mb-9 text-white/80">
